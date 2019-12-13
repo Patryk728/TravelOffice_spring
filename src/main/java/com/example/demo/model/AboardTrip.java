@@ -8,7 +8,6 @@ public class AboardTrip extends Trip {
         super(start, end, destination,price);
     }
 
-
     public void setInsurance(Double insurance) {
         this.insurance = insurance;
     }
